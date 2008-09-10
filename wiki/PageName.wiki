@@ -5,14 +5,14 @@
 
 = Details =
 
-*1. What is the deadline? Dec.03 (on calendar)
-*2. How much money is available? $7 million + 50% matching to fund the actual compensation (our fees and other setup fees are paid out of another 'bucket')
-*3. What is the advertising objective? To provide all information that employees would need (including extra compensation for the rides offered) and some inticement to join (design the advertising only, we do not implement).
-*4. Do we provide the matching of rides to riders? Yes.
-*5. Main focus of site? People who are already driving downtown and those who need a ride downtown.  Also include working class / professionals / visitors / students / etc.)
-*6. What is the update cycle? All info should be real-time.
-*7. Will we there be more capital infusions? Not needed, perpetuation of funding will come from financing of initial endowment.
-*8. How will we protect riders?  Intra-site evaluations, black-balling, comments, etc.  (No external information sources like DMV.)
+#1. What is the deadline? Dec.03 (on calendar)
+#2. How much money is available? $7 million + 50% matching to fund the actual compensation (our fees and other setup fees are paid out of another 'bucket')
+#3. What is the advertising objective? To provide all information that employees would need (including extra compensation for the rides offered) and some inticement to join (design the advertising only, we do not implement).
+#4. Do we provide the matching of rides to riders? Yes.
+#5. Main focus of site? People who are already driving downtown and those who need a ride downtown.  Also include working class / professionals / visitors / students / etc.)
+#6. What is the update cycle? All info should be real-time.
+#7. Will we there be more capital infusions? Not needed, perpetuation of funding will come from financing of initial endowment.
+#8. How will we protect riders?  Intra-site evaluations, black-balling, comments, etc.  (No external information sources like DMV.)
 *9. Who handles time schedules? We do all time scheduling.
 *10. How do we protect riders / drivers?  Ride providers must submit driver's license, tag / registration, insurance, etc. when they apply.
 *11. How do we need to plan for future expansions?  We need to design the framework so that it is transferrable to another location (that will be entirely separate from this system); we also need to allow managers of the site to customize the site (within reason.)
