@@ -1,9 +1,7 @@
-#summary One-sentence summary of this page.
+
 
 = Client Interview Questions =
 
-
-= Details =
 
 1. What is the deadline? Dec.03 (on calendar)
 
