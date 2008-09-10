@@ -5,8 +5,8 @@
 
 = Details =
 
-#1. What is the deadline? Dec.03 (on calendar)
-#2. How much money is available? $7 million + 50% matching to fund the actual compensation (our fees and other setup fees are paid out of another 'bucket')
+#1. What is the deadline? Dec.03 (on calendar)<br />
+#2. How much money is available? $7 million + 50% matching to fund the actual compensation (our fees and other setup fees are paid out of another 'bucket')<br />
 #3. What is the advertising objective? To provide all information that employees would need (including extra compensation for the rides offered) and some inticement to join (design the advertising only, we do not implement).
 #4. Do we provide the matching of rides to riders? Yes.
 #5. Main focus of site? People who are already driving downtown and those who need a ride downtown.  Also include working class / professionals / visitors / students / etc.)
