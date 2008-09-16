@@ -1,7 +1,7 @@
 = Client Interview Questions =
 
 
-1. What is the deadline? Dec.03 (on calendar)
+1. What is the deadline? Dec.03 (on calendar).
 
 2. How much money is available? $7 million + 50% matching to fund the actual compensation (our fees and other setup fees are paid out of another 'bucket')
 
