@@ -1,3 +1,9 @@
 #summary listing of pages per your requirement section
 
 = Requirement Pages =
+
+Requirement Areas:
+
+User Registration (Patrick): 4 standard user, rider, driver, confirmation
+Driver ():
+Rider ():
