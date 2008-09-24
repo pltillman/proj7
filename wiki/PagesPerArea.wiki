@@ -2,8 +2,12 @@
 
 = Requirement Pages =
 
-Requirement Areas:
+== Requirement Areas: == 
 
-User Registration (Patrick): 4 standard user, rider, driver, confirmation
-Driver ():
-Rider ():
+*User Registration (Patrick):* 4 standard user, rider, driver, and confirmation page
+*Driver (Mike):*
+*Rider (Trevor):*
+*Marketing (Miles):* None??
+*Routing (Darren):*
+*Reporting (Adrian):*
+*Feedback (Chris):*
