@@ -4,10 +4,17 @@
 
 == Requirement Areas: == 
 
+
 *User Registration (Patrick):* 4 standard user, rider, driver, and confirmation page
+
 *Driver (Mike):*
+
 *Rider (Trevor):*
+
 *Marketing (Miles):* None??
+
 *Routing (Darren):*
+
 *Reporting (Adrian):*
+
 *Feedback (Chris):*
