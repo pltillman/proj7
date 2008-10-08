@@ -1,5 +1,4 @@
-#summary One-sentence summary of this page.
-
+#summary Software Requirements Specifications Document for the NPTN Project
 = Introduction =
 
 The contents of this document provide all of the detailed business requirements needed to develop and implement a Ride Share System.
@@ -30,15 +29,15 @@ d. Improving safety for participating employees
 
 This document contains a comprehensive description of the functionality of the Non-Profit Transportation Network. It consists of nonfunctional requirements and nonfunctional requirements, and use cases that provide a complete explanation of the software.
 In this document, the specified requirements consist of the subsequent functions:
-1. Establishing and maintaining a NPTN system
-2. Searching for available rides as a rider or not logged in
-3. Establishing User registration as both a rider and a driver
-4. Ride tracking to verify driver compensation
-5. Detailed feedback system to provide a quick or in depth user feedback    experience
-6.Security by user verification process
-7. Ability to save routes to search for future rides
-8. Provide reports to various establishments including users, businesses, and administrators
-9. Establishing a user messaging and email interface
+  # Establishing and maintaining a NPTN system
+  # Searching for available rides as a rider or not logged in
+  # Establishing User registration as both a rider and a driver
+  # Ride tracking to verify driver compensation
+  # Detailed feedback system to provide a quick or in depth user feedback    experience
+  #Security by user verification process
+  # Ability to save routes to search for future rides
+  # Provide reports to various establishments including users, businesses, and administrators
+  # Establishing a user messaging and email interface
 
 Finally, the project shall provide an adaptable framework for future Non-Profit Transportation Networks (NPTN) that can be easily adapted or created for future use in other cities and states.
 
