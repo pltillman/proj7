@@ -1,84 +1,50 @@
-#summary Software Requirements Specification
+#summary One-sentence summary of this page.
 
-= SRS =
+= Introduction =
 
-*1. Introduction*
+The contents of this document provide all of the detailed business requirements needed to develop and implement a Ride Share System.
+== Purpose ==
 
-1.1 Purpose
+The purpose of this SRS (Software Requirements Specification) is to provide all of the                                 necessary documentation for all developers, designers, coders, and testers responsible for     the NPTN. It should provide all information needed to design, implement and test the        software. To accomplish these claims, the SRS describes and defines the user, interface, procedure, performance, and quality assurance requirements. 
 
-1.2 Document conventions
+== Scope ==
 
-1.3 Intended audience
+The project’s scope is to implement a new web-based Non-Profit Transportation Network (NPTN). The implementation of the NPTN is intended to accomplish the following goals: 
+  # To help businesses by:
+a. Encouraging employee carpooling 
+b. Providing relevant driver compensation data 
+c. Giving marketable features for use in business advertisements
+d. Improving safety for participating employees
+  # To provide a positive user experience by allowing:
+    * Intuitive user interfaces
+    * Easy ride matching services
+    * Driver Compensation
+    * Recurring routes
+    * User Feedback
+    * Real time (cell phone) and Myspace/Facebook integration
+  # To give the city of Atlanta a non-profit Ride Share system by providing:
+    * An entirely free to use service
+    * A Self-sustaining web based application
+    * Extra compensation for participating members
+  # To improve Atlanta’s Air quality and encourage an Environmentally and Economically                       conscious system 
 
-1.4 Additional information
+This document contains a comprehensive description of the functionality of the Non-Profit Transportation Network. It consists of nonfunctional requirements and nonfunctional requirements, and use cases that provide a complete explanation of the software.
+In this document, the specified requirements consist of the subsequent functions:
+1. Establishing and maintaining a NPTN system
+2. Searching for available rides as a rider or not logged in
+3. Establishing User registration as both a rider and a driver
+4. Ride tracking to verify driver compensation
+5. Detailed feedback system to provide a quick or in depth user feedback    experience
+6.Security by user verification process
+7. Ability to save routes to search for future rides
+8. Provide reports to various establishments including users, businesses, and administrators
+9. Establishing a user messaging and email interface
 
-1.5 Contact information/SRS team members
+Finally, the project shall provide an adaptable framework for future Non-Profit Transportation Networks (NPTN) that can be easily adapted or created for future use in other cities and states.
 
-1.6 References
+= Details =
 
-
-
-2. Overall Description
-
-2.1 Product perspective
-
-2.2 Product functions
-
-2.3 User classes and characteristics
-
-2.4 Operating environment
-
-2.5 User environment
-
-2.6 Design/implementation constraints
-
-2.7 Assumptions and dependencies
-
-
-
-3. External Interface Requirements
-
-3.1 User interfaces
-
-3.2 Hardware interfaces
-
-3.3 Software interfaces
-
-3.4 Communication protocols and interfaces
-
-
-
-4. System Features
-
-4.1 System feature A
-
-4.1.1 Description and priority
-
-4.1.2 Action/result
-
-4.1.3 Functional requirements
-
-4.2 System feature B
-
- 
-
-5. Other Nonfunctional Requirements
-
-5.1 Performance requirements
-
-5.2 Safety requirements
-
-5.3 Security requirements
-
-5.4 Software quality attributes
-
-5.5 Project documentation
-
-5.6 User documentation
-
-
-6. Other Requirements
-
-Appendix A: Terminology/Glossary/Definitions list
-
-Appendix B: To be determined 
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
