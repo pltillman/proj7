@@ -5,7 +5,7 @@
 == Requirement Areas: == 
 
 
-*User Registration (Patrick):* 4 standard user, rider, driver, and confirmation page
+*User Registration (Patrick):* 3 standard user (rider), driver, and confirmation page.
 
 *Driver (Mike):*
 
